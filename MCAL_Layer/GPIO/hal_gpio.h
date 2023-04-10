@@ -1,6 +1,6 @@
 /* 
- * File:   hal_gpio.h
- * Author: ENG_Ahmed_Daqqa
+ * File:     hal_gpio.h
+ * Author:   ENG_Ahmed_Daqqa
  * Linkedin: https://www.linkedin.com/in/ahmed-daqqa
  * GitHub  : https://github.com/ahmeddaqqa7
  * Created on April 2, 2023, 6:33 PM
@@ -41,8 +41,8 @@
 
 /* Section : Data Type Declaration  */
 typedef enum{
-    LOW = 0,
-    HIGH
+    HIGH = 0,
+    LOW
 }logic_t;
 
 typedef enum{
