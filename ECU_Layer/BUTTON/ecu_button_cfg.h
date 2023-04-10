@@ -1,14 +1,13 @@
 /* 
- * File:   ecu_led_cfg.h
+ * File:   ecu_button_cfg.h
  * Author: ENG_Ahmed_Daqqa
  * Linkedin: https://www.linkedin.com/in/ahmed-daqqa
  * GitHub  : https://github.com/ahmeddaqqa7
- * Created on April 2, 2023, 6:45 PM
+ * Created on April 2, 2023, 6:33 PM
  */
 
-
-#ifndef ECU_LED_CFG_H
-#define	ECU_LED_CFG_H
+#ifndef ECU_BUTTON_CFG_H
+#define	ECU_BUTTON_CFG_H
 
 /* Section : Includes */
 
@@ -28,5 +27,5 @@
 
 /* Section : Function Declaration  */
 
-#endif	/* ECU_LED_CFG_H */
+#endif	/* ECU_BUTTON_CFG_H */
 
