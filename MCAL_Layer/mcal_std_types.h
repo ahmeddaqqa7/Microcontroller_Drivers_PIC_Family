@@ -24,6 +24,7 @@
 #define STD_ACTIVE             0x01
 #define STD_IDEL               0x00
 
+#define ZERO_INIT              0x00
 
 
 /* Section : Data Type Declaration  */

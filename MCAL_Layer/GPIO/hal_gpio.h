@@ -41,8 +41,9 @@
 
 /* Section : Data Type Declaration  */
 typedef enum{
-    HIGH = 0,
-    LOW
+   
+    LOW,
+    HIGH
 }logic_t;
 
 typedef enum{
