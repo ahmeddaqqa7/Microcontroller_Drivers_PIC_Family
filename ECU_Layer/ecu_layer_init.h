@@ -1,6 +1,6 @@
 /* 
- * File:   ecu_layet_init.h
- * Author: ENG_Ahmed_Daqqa
+ * File:     ecu_layet_init.h
+ * Author:   ENG_Ahmed_Daqqa
  * Linkedin: https://www.linkedin.com/in/ahmed-daqqa
  * GitHub  : https://github.com/ahmeddaqqa7
  * Created on April 13, 2023, 12:08 PM
@@ -15,6 +15,7 @@
 #include "DC_Motor/ecu_dc_motor.h"
 #include "7_Segment/ecu_seven_seg.h"
 #include "Keypad/ecu_keypad.h"
+#include "Chr_LCD/ecu_chr_lcd.h"
 
 
 void ecu_layer_Initialize(void);
